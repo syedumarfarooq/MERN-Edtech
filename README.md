@@ -1,4 +1,4 @@
-# studynotion-edtech-project-main
+# Edtech-project-main
 ## Overview
 This project is an EdTech platform built using the MERN (MongoDB, Express, React, Node.js) stack. It provides functionalities for user authentication, course management, payment processing, and more.
 
