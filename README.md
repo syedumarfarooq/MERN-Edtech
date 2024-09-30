@@ -17,13 +17,14 @@ Follow the steps below to set up and run the project locally.
 Node.js: Make sure Node.js is installed on your system. You can download it from nodejs.org.
 MongoDB: Either install MongoDB locally or use MongoDB Atlas for cloud-hosted databases.
 npm: Node Package Manager comes with Node.js.
+______
 #### Steps
-Clone the Repository
+1.Clone the Repository
 
 
 `git clone https://github.com/yourusername/edtech-mern-project.git
 cd edtech-mern-project`
-#### Install Dependencies
+2.Install Dependencies
 
 Install dependencies for both the server and client.
 
@@ -35,7 +36,7 @@ npm install`
 `# Install client dependencies
 cd ../client
 npm install`
-#### Configure Environment Variables
+3.Configure Environment Variables
 
 Create a .env file in the server folder. Below is an example of what your .env file should include:
 
@@ -46,7 +47,7 @@ JWT_SECRET=<your_jwt_secret>
 RAZORPAY_KEY_ID=<your_razorpay_key_id>
 RAZORPAY_KEY_SECRET=<your_razorpay_key_secret>`
 
-Run the Application
+4.Run the Application
 
 The project is set up to run both the client and server concurrently using npm run dev.
 
@@ -56,13 +57,13 @@ In the root directory (project folder), run the following command:
 `npm run dev`
 This will concurrently start both the server (Node.js/Express) and client (React) applications.
 
-Access the Application
+5.Access the Application
 
 The server runs at: http://localhost:4000
 The client runs at: http://localhost:3000
 ### Scripts
 Here are some useful npm scripts available in the project:
-
+________
 Server:
 
 npm start: Runs the Node.js server.
