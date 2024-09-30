@@ -17,7 +17,7 @@ Follow the steps below to set up and run the project locally.
 Node.js: Make sure Node.js is installed on your system. You can download it from nodejs.org.
 MongoDB: Either install MongoDB locally or use MongoDB Atlas for cloud-hosted databases.
 npm: Node Package Manager comes with Node.js.
-______
+
 ## Steps
 1.Clone the Repository
 
@@ -60,7 +60,6 @@ This will concurrently start both the server (Node.js/Express) and client (React
 
 The server runs at: http://localhost:4000
 The client runs at: http://localhost:3000
-_____
 ## Scripts
 Here are some useful npm scripts available in the project:
 
