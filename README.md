@@ -4,11 +4,11 @@ This project is an EdTech platform built using the MERN (MongoDB, Express, React
 
 The project is set up to run both the client (React) and server (Node.js/Express) concurrently using npm run dev.
 ### Features
-User Authentication: Users can sign up, log in, and reset their password.
-Course Management: Instructors can create, update, and delete courses, while students can enroll and track progress.
-Payment Integration: Integrated with Razorpay for handling payments.
-Responsive Design: The frontend is built to be fully responsive for various devices.
-API with MongoDB: The backend uses MongoDB as the database for storing user and course data.
+User Authentication: Users can sign up, log in, and reset their password.<br>
+Course Management: Instructors can create, update, and delete courses, while students can enroll and track progress.<br>
+Payment Integration: Integrated with Razorpay for handling payments.<br>
+Responsive Design: The frontend is built to be fully responsive for various devices.<br>
+API with MongoDB: The backend uses MongoDB as the database for storing user and course data.<br>
 
 ### Installation and Setup
 Follow the steps below to set up and run the project locally.
@@ -66,12 +66,12 @@ Here are some useful npm scripts available in the project:
 
 Server:
 <br>
-npm start: Runs the Node.js server.
+npm start: Runs the Node.js server.<br>
 npm run dev: Runs the server with Nodemon for live-reloading during development.
 <br>
 Client:
 <br>
-npm start: Runs the React client in development mode.
+npm start: Runs the React client in development mode.<br>
 npm run build: Builds the React app for production.<br>
 Root:
 <br>
