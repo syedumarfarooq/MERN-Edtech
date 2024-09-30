@@ -40,8 +40,7 @@ npm install`
 
 Create a .env file in the server folder. Below is an example of what your .env file should include:
 
-`
-PORT=4000`  
+`PORT=4000`  
 `MONGO_URI=<your_mongodb_uri>`  
 `JWT_SECRET=<your_jwt_secret>`  
 `RAZORPAY_KEY_ID=<your_razorpay_key_id>`  
