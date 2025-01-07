@@ -22,7 +22,7 @@ npm: Node Package Manager comes with Node.js.
 1.Clone the Repository
 
 
-`git clone https://github.com/yourusername/edtech-mern-project.git
+`git clone https://github.com/syedumarfarooq/edtech-mern-project.git
 cd edtech-mern-project`<br>
 2.Install Dependencies
 
